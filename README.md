@@ -95,28 +95,78 @@ git push origin gh-pages
 
 ## Adding a New Article
 
-1. Create a new markdown file (e.g., `27-new-article.md`)
-2. Add front matter:
-   ```yaml
-   ---
-   layout: post
-   title: Your Article Title
-   permalink: /your-permalink
-   ---
-   ```
-3. Add navigation at the bottom:
-   ```html
-   <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
-     <div>
-       <a href="https://notes.sijokuruvilla.in/previous-article" style="text-decoration: none; color: #0366d6;">← Previous: Previous Title</a>
-     </div>
-     <div>
-       <a href="https://notes.sijokuruvilla.in/" style="text-decoration: none; color: #0366d6;">Notes Home</a>
-     </div>
-   </nav>
-   ```
-4. Update `index.md` to include the new article link
-5. Update the previous article's "Next" navigation
+### Files to Modify
+
+| File | Action |
+|------|--------|
+| `27-new-article.md` | Create new article file |
+| `index.md` | Add link to new article |
+| `26-singapore.md` | Add "Next" navigation to link to new article |
+
+### Step 1: Create the Article File
+
+Create `27-new-article.md` with the following structure:
+
+```markdown
+---
+layout: post
+title: Your Article Title
+permalink: /your-slug
+---
+
+Your article content goes here...
+
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
+  <div>
+    <a href="https://notes.sijokuruvilla.in/singapore" style="text-decoration: none; color: #0366d6;">← Previous: I once travelled to Singapore on a 1 dollar ticket</a>
+  </div>
+  <div>
+    <a href="https://notes.sijokuruvilla.in/" style="text-decoration: none; color: #0366d6;">Notes Home</a>
+  </div>
+</nav>
+```
+
+### Step 2: Update index.md
+
+Add the new article link at the end of `index.md`.
+
+**IMPORTANT**: Each link must end with TWO SPACES for proper line breaks.
+
+```markdown
+[I once travelled to Singapore on a 1 dollar ticket](singapore)
+[Your Article Title](your-slug)
+```
+
+Without the two trailing spaces, all links will appear on a single line.
+
+### Step 3: Update Previous Article Navigation
+
+Edit `26-singapore.md` to add a "Next" link in its navigation:
+
+```html
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
+  <div>
+    <a href="https://notes.sijokuruvilla.in/name" style="text-decoration: none; color: #0366d6;">← Previous: "What does your name mean?"</a>
+  </div>
+  <div>
+    <a href="https://notes.sijokuruvilla.in/your-slug" style="text-decoration: none; color: #0366d6;">Next: Your Article Title →</a>
+  </div>
+  <div>
+    <a href="https://notes.sijokuruvilla.in/" style="text-decoration: none; color: #0366d6;">Notes Home</a>
+  </div>
+</nav>
+```
+
+### Step 4: Commit and Deploy
+
+```bash
+cd "/Users/sijokuruvilla/Documents/All Projects/SKG Notes/skg-notes"
+git add .
+git commit -m "Add article: Your Article Title"
+git push
+```
+
+The site will auto-deploy via GitHub Pages in ~30 seconds.
 
 ## DNS Configuration
 
