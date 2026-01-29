@@ -12,11 +12,9 @@ One of the influence approaches then to get people to like you and help you out 
 
 It works the other way around too.
 
-Best to start with favours that people can readily offer and does not really cost them much ie stays within their affordable losses. Over time, the favours can be gradually dialled up to get to the point of skin in the game. Rather than opening or leading with a big ask, adopt a foot in the door approach to get to skin in the game aka partnerships.
-
-<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
+Best to start with favours that people can readily offer and does not really cost them much ie stays within their affordable losses. Over time, the favours can be gradually dialled up to get to the point of skin in the game. Rather than opening or leading with a big ask, adopt a foot in the door approach to get to skin in the game aka partnerships.<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
-    <a href="https://notes.sijokuruvilla.in/projects" style="text-decoration: none; color: #0366d6;">Next: Projects worth pursuing →</a>
+    <a href="https://notes.sijokuruvilla.in/batch" style="text-decoration: none; color: #0366d6;">Next: Allow things to pile up →</a>
   </div>
   <div>
     <a href="https://notes.sijokuruvilla.in/email" style="text-decoration: none; color: #0366d6;">← Previous: Common email productivity mistakes</a>

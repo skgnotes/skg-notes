@@ -32,14 +32,12 @@ Develop your worldview and your point of view
 
 Understand the way the world works
 
-Profounder -->
-
-<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
+Profounder --><nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="https://notes.sijokuruvilla.in/done" style="text-decoration: none; color: #0366d6;">Next: Almost done →</a>
   </div>
   <div>
-    <a href="https://notes.sijokuruvilla.in/projects" style="text-decoration: none; color: #0366d6;">← Previous: Projects worth pursuing</a>
+    <a href="https://notes.sijokuruvilla.in/batch" style="text-decoration: none; color: #0366d6;">← Previous: Allow things to pile up</a>
   </div>
   <div>
     <a href="https://notes.sijokuruvilla.in/" style="text-decoration: none; color: #0366d6;">Notes Home</a>

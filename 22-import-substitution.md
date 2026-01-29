@@ -16,9 +16,7 @@ What I wish to bring the attention however is to another point. Almost exclusive
 
 This got me thinking about the need to advocate for local production of such knowledge resources. In the information & knowledge age that is the 21st century, the concept of import substitution has to be consciously extended to such digital resources. This is also one category of goods that can be created through cognitive contributions alone.
 
-In summary, start publishing tutorials. You will be helping yourself and also contributing to the development of your country. Your learning retention will be better, reputation will be enhanced and you will also doing your bit towards nation building.
-
-<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
+In summary, start publishing tutorials. You will be helping yourself and also contributing to the development of your country. Your learning retention will be better, reputation will be enhanced and you will also doing your bit towards nation building.<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="https://notes.sijokuruvilla.in/boardgames" style="text-decoration: none; color: #0366d6;">Next: Board games →</a>
   </div>

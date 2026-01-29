@@ -12,9 +12,7 @@ Pareto principle, also known as the 80 / 20 rule, is the theory that 80 percent 
 
 Parkinson law postulates that work expands to the time that we allot for it. This is particularly true for work that is cognitive in nature. When we allocate shorter time buckets to work, we tend to find more efficient & productive methods to get things done. This is also the reason why shitty first drafts work.
 
-The two laws used in combination can enhance your productivity manifold.
-
-<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
+The two laws used in combination can enhance your productivity manifold.<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="https://notes.sijokuruvilla.in/braindump" style="text-decoration: none; color: #0366d6;">Next: Braindump →</a>
   </div>

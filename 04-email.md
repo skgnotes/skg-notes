@@ -12,14 +12,12 @@ The exercise also made me reflect on the common email productivity mistakes that
 - Using your inbox as an information storage mechanism
 - Reading & responding to email as against processing emails
 - Not batching the processing / replying to emails
-- Not relying on keyboard shortcuts and not using filters effectively
-
-<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
+- Not relying on keyboard shortcuts and not using filters effectively<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="https://notes.sijokuruvilla.in/ask" style="text-decoration: none; color: #0366d6;">Next: Asking for favours & Ben Franklin effect →</a>
   </div>
   <div>
-    <a href="https://notes.sijokuruvilla.in/batch" style="text-decoration: none; color: #0366d6;">← Previous: Allow things to pile up</a>
+    <a href="https://notes.sijokuruvilla.in/projects" style="text-decoration: none; color: #0366d6;">← Previous: Projects worth pursuing</a>
   </div>
   <div>
     <a href="https://notes.sijokuruvilla.in/" style="text-decoration: none; color: #0366d6;">Notes Home</a>
