@@ -16,7 +16,9 @@ Once you have managed to dump it all somewhere, your brain is able to relax. The
 
 You see, our brains are amazing pattern recognition engines. And poor memory devices with severely limited working memory capacities. And thats why the braindump routine becomes so powerful. It gives the brain space and time for it do some of its best work.
 
-Do it enough number of times. You will be pleased with the results. And what it's doing to your life in general. With each routine iteration, the brain eases further. As a result of conditioning via muscle memory / click whirr effects. Not to mention the fact that you keep getting better at it as well.<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
+Do it enough number of times. You will be pleased with the results. And what it's doing to your life in general. With each routine iteration, the brain eases further. As a result of conditioning via muscle memory / click whirr effects. Not to mention the fact that you keep getting better at it as well.
+
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="https://notes.sijokuruvilla.in/reduce" style="text-decoration: none; color: #0366d6;">Next: Bring down cost of experimentation →</a>
   </div>

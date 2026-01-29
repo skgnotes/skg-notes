@@ -14,7 +14,9 @@ That can happen only on reflection.
 
 Which in turn is a slow process.
 
-Read slowly.<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
+Read slowly.
+
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="https://notes.sijokuruvilla.in/jit" style="text-decoration: none; color: #0366d6;">Next: Just in time information →</a>
   </div>

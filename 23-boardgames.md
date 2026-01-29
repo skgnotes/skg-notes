@@ -36,7 +36,9 @@ Just a few days back Vishnu ended up tagging me on Twitter after they had an eng
 
 For those looking at where to start, my guidance for gateway games would be Settlers of Catan, Ticket to Ride and Carcassonne. Acquire and Power Grid can then follow. And should anyone wish to get themselves initiated into all this by joining in for a few rounds of games, just reach me and we can explore how it can be facilitated. After working on Breakfast Club the past couple years, I have already professed a keen interest in building out an equivalent for Board Games (Board game club?). And as a trivia, Saleeh has already earmarked a table in his new office for board games so we can always gather there.
 
-I do have a lot more thoughts surrounding board games — and strategy board games that too. But for now, I'll just leave it at that. Closing with the strong advocacy that anyone who hasn't tried it yet and is even mildly interested, you should absolutely check out board games. Every child and every adult needs and deserves to be introduced to this fascinatingly amazing world.<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
+I do have a lot more thoughts surrounding board games — and strategy board games that too. But for now, I'll just leave it at that. Closing with the strong advocacy that anyone who hasn't tried it yet and is even mildly interested, you should absolutely check out board games. Every child and every adult needs and deserves to be introduced to this fascinatingly amazing world.
+
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="https://notes.sijokuruvilla.in/signature" style="text-decoration: none; color: #0366d6;">Next: Story of my signature →</a>
   </div>

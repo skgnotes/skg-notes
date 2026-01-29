@@ -8,7 +8,9 @@ Comments bring with it a fraught relationship state. The good one lifts you up a
 
 Personally, my point of view was to remain ambivalent and had comments open. Until a good friend, Ruby, picked up a fight on my behalf with a random person on my comment thread. This was on Disqus and for the memento article.
 
-Shifted since to comments off as default.<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
+Shifted since to comments off as default.
+
+<nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
     <a href="https://notes.sijokuruvilla.in/moment" style="text-decoration: none; color: #0366d6;">Next: Rich Dad Poor Dad moment →</a>
   </div>
