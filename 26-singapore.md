@@ -27,6 +27,9 @@ Domestic air travel expenses have really shot up since the exit of the two of th
     <a href="https://notes.sijokuruvilla.in/name" style="text-decoration: none; color: #0366d6;">← Previous: What does your name mean?</a>
   </div>
   <div>
+    <a href="https://notes.sijokuruvilla.in/badminton-bot" style="text-decoration: none; color: #0366d6;">Next: I automated my daily badminton poll with Claude Code →</a>
+  </div>
+  <div>
     <a href="https://notes.sijokuruvilla.in/" style="text-decoration: none; color: #0366d6;">Notes Home</a>
   </div>
 </nav>

@@ -30,3 +30,4 @@ layout: page
 [Story of my signature](signature)  
 [What does your name mean?](name)  
 [I once travelled to Singapore on a 1 dollar ticket](singapore)  
+[I automated my daily badminton poll with Claude Code](badminton-bot)
