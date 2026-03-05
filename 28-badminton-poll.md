@@ -16,17 +16,13 @@ The first few days I kept checking to see if it had gone out. Then that stopped 
 
 It wasn't the two minutes I got back. It was the mental slot that freed up — that small, recurring background task that's now just gone.
 
-There's a version of productivity improvement that's about doing things faster. A better system. A shortcut. A template. These save seconds.
+There's a version of productivity improvement that's about doing things faster. A better system. A shortcut. A template. These save time, sure.
 
-There's a different version that's about removing things from the queue entirely. Not doing them faster — not doing them at all. That's a different category of gain.
+There's a different version that's about removing things from the queue entirely. Not doing them faster — not doing them at all. That's a different category of gain. These free up attention.
 
 The badminton poll falls into the second category. I didn't optimise the two minutes. I moved it off my plate completely. The mental slot it occupied is now genuinely free — not reassigned, not managed better, just gone.
 
 The clearest way I know to think about this: every task you do has two costs. The execution cost — the time it takes to actually do it. And the running cost — the attention it consumes while it's waiting to be done. Recurring tasks with fixed deadlines have high running costs relative to their execution costs. They're cheap to do and expensive to carry.
-
-Those are the first things worth removing.
-
-The two minutes were never the point.
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
