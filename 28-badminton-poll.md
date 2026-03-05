@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cheap to do, expensive to carry
-permalink: /cheap-to-carry
+permalink: /expensive-to-carry
 ---
 
 Our badminton group uses a WhatsApp poll to figure out who's playing each day. Someone posts it, people vote yes or no or maybe, and by evening we know if there's a game.
