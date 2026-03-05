@@ -30,4 +30,5 @@ layout: page
 [Story of my signature](signature)  
 [What does your name mean?](name)  
 [I once travelled to Singapore on a 1 dollar ticket](singapore)  
-[The difference between an assistant who knows and an assistant who can](assistant-who-can)
+[The difference between an assistant who knows and an assistant who can](assistant-who-can)  
+[The poll I stopped posting](/badminton-poll)

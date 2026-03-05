@@ -85,6 +85,9 @@ The productivity isn't in any one automation. It's in the accumulation.
     <a href="https://notes.sijokuruvilla.in/singapore" style="text-decoration: none; color: #0366d6;">← Previous: I once travelled to Singapore on a 1 dollar ticket</a>
   </div>
   <div>
+    <a href="https://notes.sijokuruvilla.in/badminton-poll" style="text-decoration: none; color: #0366d6;">Next: The poll I stopped posting →</a>
+  </div>
+  <div>
     <a href="https://notes.sijokuruvilla.in/" style="text-decoration: none; color: #0366d6;">Notes Home</a>
   </div>
 </nav>
