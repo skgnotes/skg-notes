@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The poll I stopped posting
-permalink: /badminton-poll
+title: Cheap to do, expensive to carry
+permalink: /cheap-to-carry
 ---
 
 Our badminton group uses a WhatsApp poll to figure out who's playing each day. Someone posts it, people vote yes or no or maybe, and by evening we know if there's a game.
