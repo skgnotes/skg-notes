@@ -4,45 +4,21 @@ title: The poll I stopped posting
 permalink: /badminton-poll
 ---
 
-For about two years, I was the person who posted the badminton poll.
+Our badminton group uses a WhatsApp poll to figure out who's playing each day. Someone posts it, people vote yes or no or maybe, and by evening we know if there's a game.
 
-Every day we play, someone has to ask: who's in today? Our group uses a WhatsApp poll — yes, no, maybe. Simple enough. And somehow that someone became me.
+There was no assigned person for this. It just needed to happen — sometime before it got too late for people to plan. Some days it went up early. Some days it went up late. Some days someone else posted it. Some days nobody did, and the game just didn't happen.
 
-It takes two minutes. Find the group, create a poll, type the question, add three options, send. I've done it hundreds of times. On busy mornings, on travel days, half-awake, mid-meeting. Two minutes. Barely worth mentioning.
+I was one of the people who posted it. Not every day, but often enough that it occupied mental space. The task itself is nothing — two minutes, a few taps. What's less nothing is the low-level awareness of it sitting in the background. The vague sense of: has someone posted it yet? Should I? Is it too early? And then later: did someone get to it, or did it get missed again?
 
-Except it was always in my head.
+I automated it recently using Claude Code. A message goes out every morning at a fixed time. By evening, a second message posts the vote tally and whether we've hit enough players to play.
 
-Not consciously. I wasn't anxious about it. But it was there — that background awareness of a thing that needed to be done by a certain time. 11 AM. Before that, someone has to post or nobody knows if we're playing. The mental overhead of a two-minute task isn't really two minutes. It's the quiet presence of it from the moment you wake up until the moment it's done.
+The first few days I kept checking to see if it had gone out. Then that stopped too. It just happens.
 
-A few months ago I automated it. Now a message goes out every morning at 11:15 without me touching anything. By 5 PM, a second message follows with the vote tally and whether we're playing.
+That's the thing I didn't expect. It wasn't the two minutes I got back. It was the mental slot that freed up — that small, recurring background task that's now just gone.
 
-The first few days I kept reaching for my phone around 11. Force of habit. Then the habit broke and I stopped thinking about it entirely.
+Small recurring tasks are cheap to do and expensive to carry. The execution is quick. The running cost — the low-level attention they consume while sitting on the to-do list — adds up in ways that are easy to underestimate. They're not urgent enough to do immediately, not trivial enough to forget, so they just sit there taking up space.
 
-That's the thing I didn't expect. It wasn't the two minutes I got back. It was the mental slot that freed up. The small, persistent weight of it — lifted.
-
----
-
-I've been thinking about where most attention actually goes in a day.
-
-Not the big things. Most people are reasonably good at protecting time for what matters. The real cost is in the small recurring things. The tasks that take two minutes but live in your head from morning until done. The messages you need to send, the things you need to check, the daily rituals that are small enough to feel trivial but numerous enough to constitute a real tax on attention.
-
-If you mapped out your average day and marked every moment you thought about one of these tasks — not while doing it, just the background awareness of needing to do it — the total would surprise you. Not hours. But not nothing.
-
-The goal isn't to eliminate work. It's to reduce the number of things occupying mental space at any given moment. Because attention isn't just about the tasks you're actively doing. It's about the queue.
-
----
-
-There's a version of productivity improvement that's about doing things faster. A better system. A shortcut. A template. These save seconds.
-
-There's a different version that's about removing things from the queue entirely. Not doing them faster — not doing them at all. That's a different category of gain.
-
-The badminton poll falls into the second category. I didn't optimise the two minutes. I moved it off my plate completely. The mental slot it occupied is now genuinely free — not reassigned, not managed better, just gone.
-
-The clearest way I know to think about this: every task you do has two costs. The execution cost — the time it takes to actually do it. And the running cost — the attention it consumes while it's waiting to be done. Recurring tasks with fixed deadlines have high running costs relative to their execution costs. They're cheap to do and expensive to carry.
-
-Those are the first things worth removing.
-
-The two minutes were never the point.
+There's a difference between doing something faster and removing it from the list entirely. The second one is better. The two minutes were never the point.
 
 <nav style="display: flex; flex-direction: column; gap: 5px; margin-top: 10px; padding-top: 20px; border-top: 1px solid #eee;">
   <div>
