@@ -21,6 +21,9 @@ What are the things like this you can think of that you wish you'd automated awa
     <a href="https://notes.sijokuruvilla.in/expensive-to-carry" style="text-decoration: none; color: #0366d6;">← Previous: Cheap to do, expensive to carry</a>
   </div>
   <div>
+    <a href="https://notes.sijokuruvilla.in/skills" style="text-decoration: none; color: #0366d6;">Next: Skills are the new apps →</a>
+  </div>
+  <div>
     <a href="https://notes.sijokuruvilla.in/" style="text-decoration: none; color: #0366d6;">Notes Home</a>
   </div>
 </nav>
