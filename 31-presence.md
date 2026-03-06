@@ -12,13 +12,13 @@ Then I automated it. Now it goes out at 11:15 AM, every weekday, without me. I n
 
 The time saved isn't the point. People look at a two-minute task and decide it's not worth automating, it's not much of a bother, they say. But the bother was never the two minutes. It was the task living in the background, not visible on the to-do list maybe, but always there. A daily to-do that needed to be struck off.
 
-Our brains weren't built for tracking recurring tasks. Or doing mundane repetitive things. They're designed for forming connections, having conversations, noticing things. When they're running background threads: has the poll gone out, did I send that follow-up, when do I need to check in, they're doing work they're poorly suited for. The cost isn't just attention. It's presence.
+Our brains weren't built for tracking recurring tasks. They're built for forming connections, having conversations, noticing things. Running background threads isn't what brains do well. Did the poll go out? Did I send that follow-up? When do I need to check in? That's not thinking. That's housekeeping.
 
 David Allen put it best: your mind is for having ideas, not holding them. The entire premise of his GTD system (or any GTD system for that matter) is to orchestrate a trusted system that frees up your mind to be present, not just productive.
 
-When I sit down for coffee now, I'm just having coffee. The morning brief arrived on its own. The boarding pass is there before I think to check. A quiet set of things happened without me, and I get to exist in my space, which was never meant to be occupied by those to-dos in the first place.
+When I sit down for coffee now, I'm just having coffee. The morning brief arrived on its own. The boarding pass is there before I think to check. Things happened without me. I get to exist in a space that was never meant to be filled with to-dos.
 
-That's the quality of day and life I am after. Not more hours. Not more efficiency. Just a mind that isn't quietly burning cycles on things it was never meant to do.
+That's the quality of day and life I am after. Not more hours. Not more efficiency. Just a mind free to pursue what it wishes to.
 
 The coffee tastes better when you're present.
 
