@@ -27,6 +27,9 @@ The coffee tastes better when you're present.
     <a href="https://notes.sijokuruvilla.in/skills" style="text-decoration: none; color: #0366d6;">← Previous: Skills are the new apps</a>
   </div>
   <div>
+    <a href="https://notes.sijokuruvilla.in/out-of-the-loop" style="text-decoration: none; color: #0366d6;">Next: Remove yourself from the loop →</a>
+  </div>
+  <div>
     <a href="https://notes.sijokuruvilla.in/" style="text-decoration: none; color: #0366d6;">Notes Home</a>
   </div>
 </nav>
