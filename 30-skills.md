@@ -19,6 +19,9 @@ Skills are to AI agents what apps are to smartphones. The real difference is dee
     <a href="https://notes.sijokuruvilla.in/tasks-worth-automating-first" style="text-decoration: none; color: #0366d6;">← Previous: The tasks worth automating first</a>
   </div>
   <div>
+    <a href="https://notes.sijokuruvilla.in/presence" style="text-decoration: none; color: #0366d6;">Next: Your mind is for having ideas, not holding them →</a>
+  </div>
+  <div>
     <a href="https://notes.sijokuruvilla.in/" style="text-decoration: none; color: #0366d6;">Notes Home</a>
   </div>
 </nav>

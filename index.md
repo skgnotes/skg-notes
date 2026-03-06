@@ -34,3 +34,4 @@ layout: page
 [Cheap to do, expensive to carry](/expensive-to-carry)  
 [The tasks worth automating first](/tasks-worth-automating-first)  
 [Skills are the new apps](/skills)
+[Your mind is for having ideas, not holding them](/presence)
