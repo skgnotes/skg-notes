@@ -31,4 +31,5 @@ layout: page
 [What does your name mean?](name)  
 [I once travelled to Singapore on a 1 dollar ticket](singapore)  
 [The difference between an assistant who knows and an assistant who can](assistant-who-can)  
-[Cheap to do, expensive to carry](/expensive-to-carry)
+[Cheap to do, expensive to carry](/expensive-to-carry)  
+[The tasks worth automating first](/tasks-worth-automating-first)
